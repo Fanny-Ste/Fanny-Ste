@@ -1,11 +1,20 @@
-## Oiii eu sou a Stefani !
+## Oiii, eu sou a Stefani 👋✨  
 
-💻 Sobre mim
-Profissional apaixonado por Desenvolvimento de Sistemas com sólida especialização em Garantia da Qualidade de Software (QA). Minha missão é assegurar entregas de alto nível, combinando testes manuais com metodologias ágeis e foco em resultados.
+### 💻 Sobre mim  
+Tenho 26 anos e estou iniciando minha jornada na área de programação.  
+Atualmente estou aprendendo **HTML, CSS e JavaScript do zero**, com foco em construir uma base sólida e evoluir de forma consistente.
+
+Este GitHub é o espaço onde registro meu aprendizado e meus primeiros projetos em desenvolvimento web.
+
+---
+
+### 🎯 Objetivo  
+Aprender desenvolvimento **front-end**, praticar com projetos reais e, futuramente, ingressar profissionalmente na área de tecnologia.
+
 
 <div align="center">
 </div>
-Tecnologias
+
 
 ###
 
@@ -13,30 +22,21 @@ Tecnologias
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" alt="java logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="33" alt="github logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="33" alt="postgresql logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="33" alt="hmtl logo" />  
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="33" alt="hmtl logo" />  
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="33" alt="hmtl logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="33" alt="cucumber logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="33" alt="jira logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="33" alt="confluence logo"  />
-  
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="33" alt="selenium logo"  />
-</div>
+### 🚀 Tecnologias em aprendizado  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</p>
+
+---
+
+### 📂 Projetos  
+🚧 **Em desenvolvimento**  
+Aqui você encontrará projetos simples, criados durante meus estudos, como páginas HTML, estilizações com CSS e interações básicas com JavaScript.
 
 
 ##
