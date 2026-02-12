@@ -1,15 +1,63 @@
-## Oiii, eu sou a Stefani 👋✨  
+# 🧪 Oiii, eu sou a Stefani 👋✨  
 
-### 💻 Sobre mim  
-Tenho 26 anos e estou iniciando minha jornada na área de programação.  
-Atualmente estou aprendendo **HTML, CSS e JavaScript do zero**, com foco em construir uma base sólida e evoluir de forma consistente.
+## 🔍 Sobre mim  
 
-Este GitHub é o espaço onde registro meu aprendizado e meus primeiros projetos em desenvolvimento web.
+Tenho 26 anos e estou em transição para a área de **Qualidade de Software (QA)**.  
+Sou dedicada, detalhista e apaixonada por entender como os sistemas funcionam — e principalmente como podem falhar.
+
+Atualmente estou focada em desenvolver habilidades práticas e teóricas em testes de software, com o objetivo de ingressar como **QA Júnior**.
 
 ---
 
-### 🎯 Objetivo  
-Aprender desenvolvimento **front-end**, praticar com projetos reais e, futuramente, ingressar profissionalmente na área de tecnologia.
+
+## 📚 Atualmente estudo
+
+- 📖 Fundamentos de Testes de Software  
+- 📝 Escrita de Casos de Teste  
+- 🧪 Gherkin e BDD  
+- 🐞 Relato e documentação de Bugs  
+- 🔁 Metodologias Ágeis (Scrum / Kanban)  
+- 💡 Lógica de programação aplicada a testes  
+
+---
+
+## 🎯 Objetivo Profissional
+
+Ingressar como **Analista de Testes (QA) Júnior**, contribuindo com:
+
+✔ Atenção aos detalhes  
+✔ Organização  
+✔ Pensamento crítico  
+✔ Foco na qualidade  
+✔ Melhoria contínua  
+
+---
+
+## 🛠️ Ferramentas e Conhecimentos
+
+- 📋 Casos de Teste
+- 🐞 Reporte de Bugs
+- 🧾 Gherkin (BDD)
+- 🔄 Scrum
+- 🌐 Testes em aplicações Web
+- 💻 HTML e CSS (base estrutural para testes)
+
+---
+
+## 📂 O que você encontrará aqui
+
+Este GitHub é meu espaço de evolução profissional.  
+Aqui compartilho:
+
+- ✔ Projetos práticos de testes  
+- ✔ Cenários em Gherkin  
+- ✔ Planos de teste  
+- ✔ Relatórios de bugs simulados  
+- ✔ Estudos e anotações sobre QA  
+
+---
+
+✨ *"Qualidade não é um detalhe. É responsabilidade."*
 
 
 <div align="center">
@@ -23,6 +71,7 @@ Aprender desenvolvimento **front-end**, praticar com projetos reais e, futuramen
 ###
 
 ### 🚀 Tecnologias em aprendizado  
+ 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40"/>
@@ -30,13 +79,13 @@ Aprender desenvolvimento **front-end**, praticar com projetos reais e, futuramen
   <img src="https://skillicons.dev/icons?i=js" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 </p>
+
 
 ---
 
-### 📂 Projetos  
-🚧 **Em desenvolvimento**  
-Aqui você encontrará projetos simples, criados durante meus estudos, como páginas HTML, estilizações com CSS e interações básicas com JavaScript.
 
 
 ##
